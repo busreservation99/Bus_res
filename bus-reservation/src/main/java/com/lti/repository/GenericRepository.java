@@ -7,12 +7,5 @@ public class GenericRepository {
 		System.out.println("Hello ");
 	}
 	
-	// raj here
-	//mihir here
-<<<<<<< HEAD
-	//Shreya...............
-=======
-	//Shreya Hi send kar
->>>>>>> branch 'master' of https://github.com/busreservation99/Bus_res.git
-	
+	//Hello World
 }
