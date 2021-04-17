@@ -7,7 +7,5 @@ public class GenericRepository {
 		System.out.println("Hello ");
 	}
 	
-	//Hello World
-	/* Mihir Here */
-	//Shreya added comment
+	//For Raj Commented
 }
